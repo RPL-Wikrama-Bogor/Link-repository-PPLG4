@@ -1,2 +1,5 @@
 Tugas Logika
 Link: https://github.com/nazirsaputra26/tugas-logika.git
+
+Tugas Portfolio
+link github : https://github.com/nazirsaputra26/nazirwebsite
