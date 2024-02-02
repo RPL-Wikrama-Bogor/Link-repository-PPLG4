@@ -1,1 +1,5 @@
+link tugas logika
 https://github.com/alfin-wildan/logika
+
+link web pure css
+https://github.com/alfin-wildan/purecss
