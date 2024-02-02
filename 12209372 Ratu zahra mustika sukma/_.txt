@@ -1,1 +1,3 @@
-ini tugas logika minggu pertama https://github.com/ratuzahramustik/logikastudy.git
+ini tugas logika minggu pertama https://github.com/ratuzahramustik/logikastudy.git\
+
+ini tugas tanggal 2 february 2024 https://github.com/ratuzahramustik/tulipsweb.git
