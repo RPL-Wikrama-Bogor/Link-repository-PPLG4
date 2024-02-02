@@ -1,1 +1,2 @@
 tugas logika minggu pertama -> https://github.com/anasyatia/logic-test
+tugas membuat web portfolio minggu kedua -> https://github.com/anasyatia/portfolio
