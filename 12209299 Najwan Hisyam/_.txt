@@ -1,0 +1,4 @@
+deskripsi:
+- Pengumpulan tugas logika pada tanggal 15-19 januari 2024
+
+https://github.com/NajwanHisyam09/Tugas-Logika.git 
