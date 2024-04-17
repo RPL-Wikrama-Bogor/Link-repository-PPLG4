@@ -6,5 +6,6 @@ Tugas Portofolio
 
 link:https://github.com/fallahart31/Web-Portofolio.git
 
-Remedial Api-Lumen
-https://github.com/fallahart31/study-kasus-remedial
+Remedial Api-Lumen - inbound
+https://github.com/fallahart31/study-kasus-remedial.git
+
