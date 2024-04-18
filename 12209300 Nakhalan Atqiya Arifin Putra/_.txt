@@ -9,6 +9,3 @@ https://github.com/NakhalanAtqiyaAP/ProjectLogika
 
 3.Project API Lumen(Remedial)
 https://github.com/NakhalanAtqiyaAP/ProjectLumenAPI
-=======
-https://github.com/NakhalanAtqiyaAP/ProjectLogika
->>>>>>> 3a0430d10cdd9ecf717f54019f844933a9783fe2
