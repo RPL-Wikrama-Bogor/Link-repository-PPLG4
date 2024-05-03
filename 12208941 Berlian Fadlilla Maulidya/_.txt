@@ -1,1 +1,3 @@
 ini tugas logika minggu pertama https://github.com/berlianfad/tugaslogic.git
+ini tugas web minggu kedua https://github.com/berlianfad/web-html-css.git
+study casus 356 https://github.com/berlianfad/api-lumen.git
