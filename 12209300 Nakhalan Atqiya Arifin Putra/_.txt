@@ -1,0 +1,7 @@
+Logika Pemograman Menggunakan Pemorograman C++
+
+1. Buat webPortofolio
+https://github.com/NakhalanAtqiyaAP/NakhalanWebBelajar
+
+2. Logika Soal
+https://github.com/NakhalanAtqiyaAP/ProjectLogika
