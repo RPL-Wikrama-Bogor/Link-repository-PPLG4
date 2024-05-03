@@ -1,1 +1,2 @@
-https://github.com/lirhzaaa/logic.git
+tugas logika : https://github.com/lirhzaaa/logic.git
+studi kasus api_lumen : https://github.com/lirhzaaa/update_lumen_api.git
