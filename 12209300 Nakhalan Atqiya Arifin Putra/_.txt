@@ -7,5 +7,5 @@ https://github.com/NakhalanAtqiyaAP/NakhalanWebBelajar
 <<<<<<< HEAD
 https://github.com/NakhalanAtqiyaAP/ProjectLogika
 
-3.Project API Lumen(Remedial)
+3.Project API Lumen With Auth
 https://github.com/NakhalanAtqiyaAP/ProjectLumenAPI
