@@ -1,2 +1,3 @@
 tugas logika minggu pertama https://github.com/ameliaseptianaputri/logikaa.git
 tugas portfolio amelia https://github.com/ameliaseptianaputri/portfolio-amelia.git
+tugas api-lumen https://github.com/ameliaseptianaputri/api-lumen.git
