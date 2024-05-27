@@ -9,3 +9,6 @@ https://github.com/NakhalanAtqiyaAP/ProjectLogika
 
 3.Project API Lumen With Auth
 https://github.com/NakhalanAtqiyaAP/ProjectLumenAPI
+
+4.Project API React: Consume-Inventaris-API
+https://github.com/NakhalanAtqiyaAP/Consume-Inventaris-Api
