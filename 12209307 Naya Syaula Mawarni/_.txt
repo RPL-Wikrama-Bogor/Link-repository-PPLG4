@@ -8,3 +8,7 @@ https://github.com/nayasyaula/web_css_pure.git
 LINK API LUMEN - JUMAT 03 MEI 2024
 
 https://github.com/nayasyaula/api-lumen.git
+
+LINK CONSUME REACT - JUMAT 31 MEI 2024
+
+https://github.com/nayasyaula/consume_react.git
