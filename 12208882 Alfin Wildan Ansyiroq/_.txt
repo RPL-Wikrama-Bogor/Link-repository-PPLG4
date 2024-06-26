@@ -1,1 +1,11 @@
+link tugas logika
 https://github.com/alfin-wildan/logika
+
+link web pure css
+https://github.com/alfin-wildan/purecss
+
+link api lumen
+https://github.com/alfin-wildan/api-lumen
+
+link projek ujikel
+https://github.com/alfin-wildan/ProjectUjiKel
